@@ -1,6 +1,6 @@
 # 🌏 KisskhAsia
 
-![KisskhAsia Banner](https://via.placeholder.com/1200x300?text=KisskhAsia)
+![KisskhAsia Banner](https://via.placeholder.com/1200x300/ff7f50/ffffff?text=KisskhAsia+Official)
 
 **KisskhAsia** — your go-to platform for the latest **movies, anime, and dramas** from Asia! Fast, sleek, and optimized for every device.
 
@@ -12,7 +12,8 @@
 - ⚡ **Lightning Fast** – Optimized for minimal load times  
 - 📱 **Responsive Design** – Works on mobile, tablet, and desktop  
 - 🔍 **SEO Friendly** – Structured for search engine visibility  
-- 🧹 **Clean Codebase** – Easy to contribute, maintain, and scale
+- 🧹 **Clean Codebase** – Easy to contribute, maintain, and scale  
+- ✨ **Interactive UI** – Modern and visually appealing interface
 
 ---
 
@@ -89,9 +90,17 @@ MIT License © 2025 — See [LICENSE](LICENSE)
 
 ---
 
-### 🎨 Badges (optional)
+### 🎨 Badges & Showcase
 
-![GitHub issues](https://img.shields.io/github/issues/your-username/KisskhAsia)  
-![GitHub forks](https://img.shields.io/github/forks/your-username/KisskhAsia)  
-![GitHub stars](https://img.shields.io/github/stars/your-username/KisskhAsia)  
-![GitHub license](https://img.shields.io/github/license/your-username/KisskhAsia)
+![GitHub issues](https://img.shields.io/github/issues/your-username/KisskhAsia?color=ff7f50&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/your-username/KisskhAsia?color=00bfff&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/your-username/KisskhAsia?color=ff69b4&style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/your-username/KisskhAsia?color=32cd32&style=for-the-badge)
+
+---
+
+### 🎬 Demo Preview
+
+![Demo GIF](https://media.giphy.com/media/26FPqut4uG9Q9KJwU/giphy.gif)
+
+Experience a modern, interactive, and visually engaging interface with KisskhAsia. This README is designed to showcase your repo professionally and attractively on GitHub.
