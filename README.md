@@ -1,131 +1,92 @@
-Ah ✅ I see exactly what happened — the **extra explanation + the code** got copied together because I included both in the same message.
-Let’s fix that properly 👌
-
-Here’s a **clean `README.md` file only** — no explanations, no extra text.
-👉 You can click the “copy” button in the top right of the code block below to get **the entire file in one click**.
-
----
-
-````markdown
-# 🌏 KisskhAsia
-
-> **Informational Repository for Asian Media Content**  
-> Developer-friendly, well structured, and built with modern frameworks.
-
-![Banner](https://via.placeholder.com/1200x300/0d1117/ffffff?text=KisskhAsia+Developer+Showcase)
+<!-- Banner / Intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Hi+there+👋;+I'm+%F0%9F%8C%9D+KisskhAsia+Developer;Web+Developer+%7C+SEO+Enthusiast+%7C+Tech+Creator" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🚀 Why KisskhAsia
-
-KisskhAsia is a **developer-oriented informational project** designed to provide structured references, metadata, and project layouts for Asian **movies, anime, and dramas** — ideal for research, development, and content structuring.
-
-**Key principles:**
-- 🧭 **Structured** — Clear and consistent project organization  
-- ⚡ **Modern Stack** — Built with Next.js, TypeScript, and TailwindCSS  
-- 🧠 **Developer Focused** — Easy to extend, maintain, and collaborate  
-- 🔒 **Legally Safe** — No hosted content, purely informational
+<!-- Social links -->
+<div align="center">
+  <a href="https://kisskh.info"><img src="https://img.shields.io/badge/Website-4F8CC9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.youtube.com/@LunarLoops"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
 
 ---
 
-## 🧱 Tech Stack
+### 🧠 About Me
 
-| Area       | Technologies                             |
-|------------|-------------------------------------------|
-| Frontend   | Next.js, React, TypeScript, TailwindCSS   |
-| Backend    | Node.js (Optional), MongoDB (Optional)    |
-| Hosting    | Vercel / Cloudflare Pages                 |
-| Tooling    | ESLint, Prettier, Git, GitHub            |
-
----
-
-## 📂 Project Structure
-
-```plaintext
-KisskhAsia/
-├── public/            → Static assets (banners, icons, etc.)
-├── src/
-│   ├── components/    → Reusable UI components
-│   ├── pages/         → Informational Next.js pages
-│   └── styles/        → TailwindCSS / custom styling
-├── .gitignore
-├── package.json
-├── README.md
-└── next.config.js
-````
+- 🌐 Founder & Developer of [**KisskhAsia**](https://kisskh.info)  
+- 💻 Passionate about **web development**, **SEO**, and **user experience**  
+- 🚀 Building fast, clean, and discoverable sites with Cloudflare & GitHub  
+- 🎧 Also running the [**Lunar Loops**](https://www.youtube.com/@LunarLoops) channel for chill music  
+- 🌱 Constantly learning & experimenting with new technologies
 
 ---
 
-## ⚡ Quick Start (Reference)
+### 🛠️ Tech Stack & Tools
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/KisskhAsia.git
+<div align="center">
 
-# 2. Navigate into the project
-cd KisskhAsia
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![SEO](https://img.shields.io/badge/-SEO-4CAF50?style=for-the-badge&logo=google)
 
-# 3. Install dependencies
-npm install
-
-# 4. Run locally
-npm run dev
-```
-
-Then open **[http://localhost:3000](http://localhost:3000)** to preview.
+</div>
 
 ---
 
-## 📝 Important
+### 📊 GitHub Stats
 
-> This project is strictly for **informational purposes only**.
-> No copyrighted content is hosted or distributed.
-
----
-
-## 🧠 Contributing
-
-We welcome contributions from developers who want to **improve structure**, **add documentation**, or **enhance the reference system**.
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/YourFeature`
-3. Commit changes: `git commit -m "Add feature"`
-4. Push to your branch: `git push origin feature/YourFeature`
-5. Open a Pull Request 🛠
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+</div>
 
 ---
 
-## 📈 Repository Stats
+### 🏆 Achievements & Highlights
 
-![Stars](https://img.shields.io/github/stars/your-username/KisskhAsia?color=0ea5e9\&style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/your-username/KisskhAsia?color=6366f1\&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/your-username/KisskhAsia?color=ef4444\&style=for-the-badge)
-![License](https://img.shields.io/github/license/your-username/KisskhAsia?color=f59e0b\&style=for-the-badge)
-
----
-
-## 🌐 Links
-
-* 🏠 Website: [kisskh.info](https://kisskh.info)
-* 💻 GitHub: [KisskhAsia](https://github.com/your-username/KisskhAsia)
-* ✉️ Contact: [your-email@example.com](mailto:your-email@example.com)
+- 🚀 Launched KisskhAsia with Cloudflare Pages for global performance  
+- 🌟 Grew Lunar Loops channel for relaxing music content  
+- 💡 Focused on clean UX and SEO-first designs  
 
 ---
 
-## 🖼 Preview
+### 📺 Latest YouTube Videos
 
-![Demo GIF](https://media.giphy.com/media/26FPqut4uG9Q9KJwU/giphy.gif)
-
----
-
-### 📄 License
-
-MIT License © 2025 — KisskhAsia
-
-```
+<!-- Replace with your own channel video cards -->
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://ytcards.demolab.com/?id=dQw4w9WgXcQ&title=My+Latest+Music+Drop&lang=en&timestamp=1672531200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250" alt="Latest Video" />
+  </a>
+</div>
 
 ---
 
-✅ You can now **copy this entire block in one click** and paste it directly into your `README.md`.  
-Would you like me to also generate and give you the **file download (`README.md`)** version?
-```
+### ☕ Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/your-username">
+    <img src="https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge" alt="Buy Me A Coffee">
+  </a>
+</div>
+
+---
+
+### 📬 Get in Touch
+
+- 🌐 Website: [kisskh.info](https://kisskh.info)  
+- 📧 Email: your@email.com  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/)  
+- 💬 Discord: yourserver
+
+---
+
+<div align="center">
+  <sub>⚡ Built with ❤️ by <b>Your Name</b></sub>
+</div>
