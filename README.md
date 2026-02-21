@@ -11,8 +11,8 @@ I enjoy building smooth websites and deploying them seamlessly using **Cloudflar
 ---
 
 ## 🧠 **About Me**
-- 🌐 Currently building: [**kisskh.info**](https://kisskh.info) — personal website & projects  
-- 🎵 Creator of: [**Kisskh**](https://www.youtube.com/@Kisskh.Official) — chill & relaxing music  
+- 🌐 Currently building: [**kisskh.cam**](https://kisskh.cam) — personal website & projects  
+- 🎵 Creator of: [**Kisskh**](https://www.youtube.com/@KisskhOfficialYT) — chill & relaxing music  
 - 🛠️ Favorite stack: HTML, CSS, JavaScript, Cloudflare Pages  
 - ☁️ Deployment & hosting: GitHub Pages + Cloudflare  
 - 💡 Always learning and exploring new web technologies  
@@ -41,16 +41,16 @@ I enjoy building smooth websites and deploying them seamlessly using **Cloudflar
 ## 🌟 **Featured Projects**
 🚧 More coming soon stay tuned!
 
-- [kisskh.info](https://kisskh.info) — My personal website & projects hub  
-- [Kisskh](https://www.youtube.com/@Kisskh.Official) — Chill & relaxing music channel  
+- [kisskh.cam](https://kisskh.cam) — My personal website & projects hub  
+- [Kisskh](https://www.youtube.com/@KisskhOfficialYT) — Chill & relaxing music channel  
 
 ---
 
 ## 🌐 **Connect With Me**
 
 <p align="center">
-  <a href="https://kisskh.info"><img src="https://img.shields.io/badge/Website-kisskh.info-blue?style=for-the-badge" alt="Website"></a>
-  <a href="https://www.youtube.com/@Kisskh.Official"><img src="https://img.shields.io/badge/YouTube-Kisskh-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  <a href="https://kisskh.cam"><img src="https://img.shields.io/badge/Website-kisskh.info-blue?style=for-the-badge" alt="Website"></a>
+  <a href="https://www.youtube.com/@KisskhOfficialYT"><img src="https://img.shields.io/badge/YouTube-Kisskh-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
   <a href="https://github.com/KisskhAsia"><img src="https://img.shields.io/badge/GitHub-KisskhAsia-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
